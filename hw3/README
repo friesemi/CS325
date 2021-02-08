@@ -1,0 +1,2 @@
+To compile this code, simply use g++ knapsack.cpp
+To run the code, use whatever executable compiled under (or just a.out)

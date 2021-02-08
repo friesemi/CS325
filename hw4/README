@@ -1,0 +1,2 @@
+To compile the program, use g++ makeChange.cpp
+To run the program, use the executable used i.e. a.out

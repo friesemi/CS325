@@ -1,0 +1,3 @@
+To compile the programs use the command 'make'
+To run both insertsort and mergesort just use commands 'insert' or 'merge' respectively
+To run either insertTime or mergeTime use commands 'iTime' or 'mTime' respectively followed by the desired size of the array i.e.(iTime 20000)
